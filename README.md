@@ -10,7 +10,18 @@ Breves Notas Metodológicas
 O banco de dados que alimenta o painel foi construído por meio da raspagem de dados obtidos por meio da “Busca de Julgados de Primeira Instância” do TJSP. Os dados sido coletados no dia 10/04/2023  por meio do pacote “TJSP” desenvolvido em R por José de Jesus Filho.
 Para a raspagem foram utilizadas 12 chaves de busca distintas, quais sejam:
 
-“IRDR X”; “IRDR 0X”; “IRDR 00X”; “TEMA IRDR X”; “TEMA IRDR 0X”; “TEMA IRDR 00X”; “IAC X”; “IAC 0X”; “IAC 00X”; “TEMA IAC X”; “TEMA IAC 0X”; “TEMA IAC 00X”;
+“IRDR X”; 
+“IRDR 0X”; 
+“IRDR 00X”; 
+“TEMA IRDR X”; 
+“TEMA IRDR 0X”; 
+“TEMA IRDR 00X”; 
+“IAC X”; 
+“IAC 0X”; 
+“IAC 00X”; 
+“TEMA IAC X”; 
+“TEMA IAC 0X”; 
+“TEMA IAC 00X”;
 
 Uma vez coletados os dados, eles foram organizados via Excel e expostos via PowerBI.
 
